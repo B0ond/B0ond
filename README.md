@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @B0ond
+- 👋 Hi, I’m Amiram
 - 👀 I’m interested in testing
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on QA
