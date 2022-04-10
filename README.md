@@ -7,4 +7,4 @@
 -  [LinkedIn](https://www.linkedin.com/in/amiram-yalaltdinov-7375a8236/)
 
 ----
-### My homeworks ---> *[there](https://github.com/B0ond/lern_place/tree/main/homework)*
+### My homeworks ---> *[there](https://github.com/B0ond/lern_place/)*
