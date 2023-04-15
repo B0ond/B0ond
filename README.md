@@ -9,7 +9,7 @@
 ----
 ### My homeworks ---> *[there](https://github.com/B0ond/learn_place/tree/main/homework)*
 
-Мой профиль
+Мой профиль<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B0ond&theme=solarized_dark)
 
 Статистика языков в commits
