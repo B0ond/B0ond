@@ -8,4 +8,13 @@
 
 ----
 ### My homeworks ---> *[there](https://github.com/B0ond/learn_place/tree/main/homework)*
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B0ond&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=B0ondt&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=B0ond&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=B0ond&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
