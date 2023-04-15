@@ -8,3 +8,4 @@
 
 ----
 ### My homeworks ---> *[there](https://github.com/B0ond/learn_place/tree/main/homework)*
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B0ond&theme=solarized_dark)
