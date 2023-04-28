@@ -7,7 +7,7 @@
 -  [LinkedIn](https://www.linkedin.com/in/amiram-yalaltdinov-7375a8236/)
 
 ----
-### My homeworks ---> *[there](https://github.com/B0ond/learn_place/tree/main/homework)*
+
 
 Мой профиль<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B0ond&theme=solarized_dark)
