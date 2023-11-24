@@ -1,10 +1,9 @@
 # Hi, I’m Amiram
 
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning on Vadim Ksendzov course
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming on the Internet on my own and do my own projects
 - 💞️ I'm looking for a job in passing
 - 📫 How to reach me in telegram: @B0ond
--  [LinkedIn](https://www.linkedin.com/in/amiram-yalaltdinov-7375a8236/)
 
 ----
 
