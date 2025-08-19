@@ -1,9 +1,5 @@
 # Hi, I’m Amiram
 
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming on the Internet on my own and do my own projects
-- 💞️ I'm looking for a job in passing
-
 ----
 
 
