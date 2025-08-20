@@ -1,7 +1,3 @@
-# Hi, I’m Amiram
-
-----
-
 
 Мой профиль<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B0ond&theme=solarized_dark)
